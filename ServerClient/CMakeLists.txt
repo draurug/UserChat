@@ -24,7 +24,6 @@ add_executable(ServerClient
   ChatClientPackets.h
   ChatClientPacketUtils.h
   ChatServerPackets.h
-  DbgUiClient.h
 )
 # target_link_libraries(ServerClient Qt${QT_VERSION_MAJOR}::Core)
 
