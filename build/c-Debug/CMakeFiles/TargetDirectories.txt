@@ -1,0 +1,9 @@
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/UserChat.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/edit_cache.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/rebuild_cache.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/list_install_components.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/install.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/install/local.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/install/strip.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/UserChat_autogen_timestamp_deps.dir
+/home/draugur/Documents/UserChat/build/c-Debug/CMakeFiles/UserChat_autogen.dir
