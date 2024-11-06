@@ -13,7 +13,7 @@ class IAppliedTcpClient
 public:
     virtual ~IAppliedTcpClient() = default;
     virtual void onConnected(const boost::system::error_code& ec) = 0;
-    virtual void sendPacketTo(user_chat::PacketBase& packet) = 0;
+    virtual void onPacketReceived(uint8_t* buffer, size_t bufferSize) = 0;
 
 };
 
