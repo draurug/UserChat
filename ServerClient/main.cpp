@@ -1,15 +1,11 @@
 #include "TcpServer.h"
 #include "TcpClient.h"
+#include "ChatClient.h"
+#include "ChatServer.h"
 
 // lvalue = rvalue (movable)
 // rvalue = std::move(lvalue)
 
-class ChatServer{};
-class ChatSession
-{
-public:
-    void onPacketReceived( const std::vector<uint8_t>& packetData){}
-};
 class ChatClientBase
 {
 public:
@@ -36,7 +32,8 @@ int main()
 
     sleep(1);
 
-    char message[] = "001234567890";
+    char *message = new char [100];
+    strcpy(message,"001234567890");
     message[0] = 10;
     message[1] = 0;
     client->write( (uint8_t *)message, sizeof(message) );

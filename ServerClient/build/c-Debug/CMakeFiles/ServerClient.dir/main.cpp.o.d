@@ -1567,4 +1567,6 @@ CMakeFiles/ServerClient.dir/main.cpp.o: \
   /usr/include/boost/algorithm/string/detail/formatter.hpp \
   /usr/include/boost/algorithm/string/erase.hpp \
   /home/draugur/Documents/UserChat/ServerClient/Logs.h \
-  /home/draugur/Documents/UserChat/ServerClient/TcpClient.h
+  /home/draugur/Documents/UserChat/ServerClient/TcpClient.h \
+  /home/draugur/Documents/UserChat/ServerClient/ChatClient.h \
+  /home/draugur/Documents/UserChat/ServerClient/ChatServer.h

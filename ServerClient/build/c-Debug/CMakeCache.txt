@@ -259,17 +259,8 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 //Skip Qt Creator's package manager auto-setup
 QT_CREATOR_SKIP_PACKAGE_MANAGER_SETUP:BOOL=OFF
 
-//The directory containing a CMake configuration file for QT.
-QT_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5
-
 //No help, variable specified on the command line.
 QT_QMAKE_EXECUTABLE:FILEPATH=/usr/lib/qt5/bin/qmake
-
-//The directory containing a CMake configuration file for Qt5Core.
-Qt5Core_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5Core
-
-//The directory containing a CMake configuration file for Qt5.
-Qt5_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5
 
 //Value Computed by CMake
 ServerClient_BINARY_DIR:STATIC=/home/draugur/Documents/UserChat/ServerClient/build/c-Debug

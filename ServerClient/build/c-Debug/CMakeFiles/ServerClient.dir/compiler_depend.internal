@@ -3,6 +3,8 @@
 
 CMakeFiles/ServerClient.dir/main.cpp.o
  /home/draugur/Documents/UserChat/ServerClient/main.cpp
+ /home/draugur/Documents/UserChat/ServerClient/ChatClient.h
+ /home/draugur/Documents/UserChat/ServerClient/ChatServer.h
  /home/draugur/Documents/UserChat/ServerClient/Logs.h
  /home/draugur/Documents/UserChat/ServerClient/TcpClient.h
  /home/draugur/Documents/UserChat/ServerClient/TcpServer.h
